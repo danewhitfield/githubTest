@@ -6,7 +6,7 @@ body {
   align-items: center;
   flex-direction: column;
   height: 100vh;
-  background: lightgreen;
+  background: darkslateblue;
 }
 
 .display {
